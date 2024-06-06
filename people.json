@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "age": 28,
+            "city": "New York",
+            "occupation": "Software Developer"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "age": 32,
+            "city": "Los Angeles",
+            "occupation": "Graphic Designer"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "age": 24,
+            "city": "Chicago",
+            "occupation": "Data Analyst"
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "email": "bob.brown@example.com",
+            "age": 45,
+            "city": "Houston",
+            "occupation": "Project Manager"
+        },
+        {
+            "id": 5,
+            "name": "Charlie Davis",
+            "email": "charlie.davis@example.com",
+            "age": 29,
+            "city": "Phoenix",
+            "occupation": "Marketing Specialist"
+        },
+        {
+            "id": 6,
+            "name": "Diana Evans",
+            "email": "diana.evans@example.com",
+            "age": 35,
+            "city": "Philadelphia",
+            "occupation": "Product Manager"
+        },
+        {
+            "id": 7,
+            "name": "Eve Foster",
+            "email": "eve.foster@example.com",
+            "age": 27,
+            "city": "San Antonio",
+            "occupation": "UX Designer"
+        },
+        {
+            "id": 8,
+            "name": "Frank Green",
+            "email": "frank.green@example.com",
+            "age": 40,
+            "city": "San Diego",
+            "occupation": "Business Analyst"
+        },
+        {
+            "id": 9,
+            "name": "Grace Harris",
+            "email": "grace.harris@example.com",
+            "age": 31,
+            "city": "Dallas",
+            "occupation": "HR Manager"
+        },
+        {
+            "id": 10,
+            "name": "Henry Lee",
+            "email": "henry.lee@example.com",
+            "age": 26,
+            "city": "San Jose",
+            "occupation": "Sales Executive"
+        }
+    ]
+}
